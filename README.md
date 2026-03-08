@@ -27,7 +27,7 @@ Inspired by [K-Scale K-Bot](https://kscale.dev/), [Boston Dynamics Atlas](https:
 <div align="center">
   <img src="docs/images/kumanday-front.png" width="420" alt="Front view"/>
   &nbsp;&nbsp;
-  <img src="docs/images/kumanday-side.png" height="80%" width="200" alt="Side view"/>
+  <img src="docs/images/kumanday-side.png" height="50%" width="200" alt="Side view"/>
   <br><em>Front and side views.</em>
 </div>
 
